@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @TaterPropRoss
+- 👀 I’m interested in motorcycles, music and camping
+- 🌱 I’m currently learning python, ML and github 
+- 📫 How to reach me: rossthemacboss@gmail.com
